@@ -1,0 +1,18 @@
+DieBack - A simple Earthbound style background maker 
+
+Links:
+-Itch.io https://okano.itch.io/dieback
+-GitHub: https://github.com/Okanoa/Dieback
+
+Pros:
+-Open source
+-Free
+-Great for making trippy moving backgrounds
+-Contains Lua scripting and .PCX fileformat
+-Basic/decently easy to use
+
+Cons:
+-No longer being updated
+-Little to no documentation except a discord support server
+-Only supports Windows x64
+-Poor GIF exports (Creator recommends screen recording)
