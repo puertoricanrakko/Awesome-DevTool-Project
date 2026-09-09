@@ -1,0 +1,16 @@
+Twine to Ren’py - A Ren’py code writer but in Twine's visual format
+
+Links:
+-Itch.io: https://ludowoods.itch.io/twine-to-renpy-tool
+-GitHub: https://github.com/jtuason/twine_to_renpy
+
+Pros:
+-Gives a visual storyline editor that can be exported as Ren’py code
+-Has a lot of options to simplify the Twine to Ren’py transition
+-Good for simple projects
+-Helps beginners learn the Ren’py layout
+
+Cons:
+-Only for Windows (Mac and Linux code is given but must be run with Python)
+-Extremely specialized for Ren’py
+-Won’t be able to do more complex mechanics/not built for more complex Ren’py projects
