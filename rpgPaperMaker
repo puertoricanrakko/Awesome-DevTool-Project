@@ -1,0 +1,21 @@
+RPG Paper Maker - An RPG game maker engine but with 3d visuals
+
+Links:
+-Website: https://rpg-paper-maker.com
+-Steam Page: https://store.steampowered.com/app/1066860/RPG_Paper_Maker/
+
+Pros:
+-Free as long as the projects aren’t making profit
+-One time license purchase for commercial use
+-User friendly UI
+-Very beginner friendly
+-Allows for more complex coding, plugins, and 3D model imports
+-Works on Windows, macOS, and Linux
+-Still being updated
+
+Cons
+-Commercial edition is a bit pricey ($79.99)
+-Few pieces of documentation (Although easy to understand)
+-Advanced coding only uses Javascript
+-Model imports must be .obj
+-Mainly for beginner projects
